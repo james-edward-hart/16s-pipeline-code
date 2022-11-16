@@ -1,7 +1,7 @@
 #!/usr/local/bin/Rscript
 
 #16S Rotation Project Code
-
+# Jimmy Hart
 
 #Package Loading (Excluding Phangorn)
 .cran_packages <- c("ggplot2", "gridExtra")
